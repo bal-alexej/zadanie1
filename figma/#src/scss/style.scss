@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+@import "fonts";
+
+@import "header";
+
+@import "__section1";
+@import "__section2";
+
+@import "footer";
