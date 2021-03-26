@@ -9,8 +9,18 @@
   background-size: 1440px 800px;
 }
 
+.header p {
+  width: 133px;
+  left: 211px;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  color: #FFFFFF;
+}
+
 .header h1 {
-  vertical-align: center;
   text-align: center;
   width: 998px;
   height: 139px;
@@ -98,6 +108,11 @@ hr {
 
 .section2 .About_us_p p {
   color: rgba(255, 255, 255, 0.9);
+}
+
+.section9 {
+  text-align: center;
+  margin-left: -590px;
 }
 
 .footer {
